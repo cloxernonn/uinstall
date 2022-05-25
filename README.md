@@ -1,2 +1,1 @@
-# uinstall
-Uinstall for TLauncher
+# For more, just wait ...
