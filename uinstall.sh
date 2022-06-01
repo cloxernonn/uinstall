@@ -68,6 +68,9 @@ cd
 rm -rf tlauncher
 rm -rf .tlauncher
 rm -rf .minecraft
+cd ~/.local/share/applications
+sudo rm -rf TLauncher.desktop
+cd
 echo "$uinstall_comp_en"
 sleep 2
 clear
@@ -89,6 +92,9 @@ cd
 rm -rf tlauncher
 rm -rf .tlauncher
 rm -rf .minecraft
+cd ~/.local/share/applications
+sudo rm -rf TLauncher.desktop
+cd
 echo "$uinstall_comp_ru"
 sleep 2
 clear
